@@ -2,6 +2,8 @@
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐋𝐢𝐯𝐞 𝐃𝐚𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤 : https://tinyurl.com/PowerBILiveDashboard
 
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 Video Presentation Link : https://lnkd.in/drwsM3pt
+
 🌍 Problem Statement:
 
 Before, AtliQ's business operations were limited to a few countries, resulting in fewer complexities. However, after expanding globally, business activities became more complex. AtliQ, now a leading electronic company in the consumer market, experienced significant growth but also encountered challenges in Latin America due to reliance on Excel files for analytics.
